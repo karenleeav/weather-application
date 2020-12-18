@@ -1,0 +1,53 @@
+.weather-app {
+  border: 1px solid #f7c500;
+  padding: 30px;
+  margin: 20px auto;
+  max-width: 1000px;
+  border-radius: 10px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input {
+  padding: 6px 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+span {
+  font-weight: lighter;
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 40px;
+}
+
+i.h2-snow {
+  font-size: 25px;
+}
+
+.prec-wind {
+  margin-bottom: 50px;
+}
+
+.fa-snowflake {
+  color: blue;
+  font-size: 40px;
+}
+
+.units {
+  font-size: 15px;
+}
+
+.fa-sun {
+  color: #f7c500;
+  font-size: 40px;
+}
