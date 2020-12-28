@@ -22,6 +22,11 @@ h1 {
   margin-bottom: 20px;
 }
 
+.date {
+  font: size 15px;
+  font-weight: 50;
+}
+
 span {
   font-weight: lighter;
   font-size: 2rem;
